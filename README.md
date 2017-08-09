@@ -6,6 +6,6 @@
 paragraph text here
 
 ```ruby
-put "This is code"
+puts "This is code"
 if this then that
 ```
