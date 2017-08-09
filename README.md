@@ -4,3 +4,7 @@
 * Bullet2
 
 paragraph text here
+
+```
+put "This is code"
+```
