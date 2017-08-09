@@ -12,5 +12,5 @@ if this then that
 
 ## Office Hours
 You can check this link[Check this link]
-()
+(https://github.com/rails/rails/blob/master/README.md)
 
