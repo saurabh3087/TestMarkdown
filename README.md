@@ -7,4 +7,5 @@ paragraph text here
 
 ```ruby
 put "This is code"
+if this then that
 ```
