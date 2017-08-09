@@ -5,6 +5,6 @@
 
 paragraph text here
 
-```
+```ruby
 put "This is code"
 ```
